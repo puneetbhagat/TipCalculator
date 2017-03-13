@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/puneetbhagat/iOSBootCamp-TipCalculator/blob/master/TipCalc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,8 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
->> Once you drag-drop the controls and name them, swift creates a delegate for such control. Renaming the delegate within the code started throwing delegate error. Figured out that Swift maintained previous delegate as well as added new delegate for the updated name. Had to delete the old delegate to get it working.
->> I am new to swift, so wasn't sure about the syntax or the functions to use. As always googling for the same helped. 
+* Once you drag-drop the controls and name them, swift creates a delegate for such control. Renaming the delegate within the code started throwing delegate error. Figured out that Swift maintained previous delegate as well as added new delegate for the updated name. Had to delete the old delegate to get it working.
+* I am new to swift, so wasn't sure about the syntax or the functions to use. As always googling for the same helped. 
 
 ## License
 
